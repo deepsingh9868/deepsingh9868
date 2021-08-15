@@ -30,7 +30,7 @@
 </p>
 
  
- <div align="left" width = 50% >
+ <div align="left" width ="400" height"400" >
   <p> 🔭 I’m currently working on something which I don't know</p>
   <p>👯 I’m looking to collaborate on web development projects</p>
   <p>🤝 I’m looking for help with web development </p>
