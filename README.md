@@ -31,7 +31,7 @@
 
  
 <img align="right" src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif" alt="Coder GIF" width="480" height="400">
-![carbon](https://github.com/deepsingh9868/deepak_img/blob/main/github_intro.png)
+<img src="https://github.com/deepsingh9868/deepak_img/blob/main/intro.png"/>
 
                                                                                        
    
