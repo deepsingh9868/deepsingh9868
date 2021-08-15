@@ -68,7 +68,7 @@
 <br/>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=deepsingh9868&show_icons=true&theme=synthwave" alt="Deepak :: Profile Stats" /></p>
-<p aligh="left"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=programmergaurav&theme=radical" /></p>
+<p aligh="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=deepsingh9868&theme=radical" /></p>
 
 <!-- <p align="left"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>  -->
 
