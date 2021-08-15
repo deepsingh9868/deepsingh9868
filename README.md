@@ -16,6 +16,7 @@
   <a href="mailto:deepaksingh66013@gmail.com"><img height="30" src="https://img.shields.io/badge/-gmail-black?logo=gmail&style=flat-square"></a>&nbsp;&nbsp;
   <a href="https://www.hackerearth.com/@deepaksingh66013"><img height="30" src="https://img.shields.io/badge/-hackerearth-black?logo=hackerearth&style=flat-square"></a>&nbsp;&nbsp;
   <a href="https://leetcode.com/deepsingh9868/"><img height="30" src="https://img.shields.io/badge/-leetcode-black?logo=leetcode&style=flat-square"></a>
+  <a href="https://www.codechef.com/users/deepak_070"><img height="30" src="https://img.shields.io/badge/-codechef-black?logo=codechef&style=flat-square"></a>
 </p>
 
 <!-- - 🔭 I’m currently working on something which I don't know.
