@@ -21,19 +21,17 @@
   <a href="https://discord.gg/YngxnGQz"><img height="30" src="https://img.shields.io/badge/-discord-black?logo=discord&style=flat-square"></a>
 </p>
 
-<br/>
+
  
 <img align="right" src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif" alt="Coder GIF" width="400" height="400">
- <br/>
-<img align="left" width="500" height="400" src="https://github.com/deepsingh9868/deepak_img/blob/main/intro.png" />
- <br/>
 
-<br/>                                                              
-<br/>
+<img align="left" width="500" height="400" src="https://github.com/deepsingh9868/deepak_img/blob/main/intro.png" />
+
+
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=deepsingh9868&show_icons=true&theme=synthwave" alt="Deepak :: Profile Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepsingh9868&theme=radical" />
- </p>
+</p>
 
 
 
