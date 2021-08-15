@@ -18,7 +18,7 @@
 <!-- <p><b>I'm a dumb and young programmer from India</b></p> -->
 <!--   "https://giphy.com/gifs/spongebob-l46CyJmS9KUbokzsI/giphy.gif"  -->
   
- <img src="https://media.giphy.com/media/l46CyJmS9KUbokzsI/giphy.gif" width="50" /> <b><i>DUMB AND YOUNG PROGRAMMER!!!</i></b> <img src="https://media.giphy.com/media/mDXRploH8XBIaIG1U7/giphy.gif" width="50" />
+ <img src="https://media.giphy.com/media/LnKa2WLkd6eAM/giphy.gif" width="50" /> <b><i>DUMB AND YOUNG PROGRAMMER!!!</i></b> <img src="https://media.giphy.com/media/mDXRploH8XBIaIG1U7/giphy.gif" width="50" />
   
   
 <p align='center'>
