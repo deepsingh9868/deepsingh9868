@@ -27,7 +27,8 @@
 
 <img align="left" width="500" height="400" src="https://github.com/deepsingh9868/deepak_img/blob/main/intro.png" />
 
-
+<br />
+ <br/>
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=deepsingh9868&show_icons=true&theme=synthwave" alt="Deepak :: Profile Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepsingh9868&theme=radical" />
