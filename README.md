@@ -39,7 +39,7 @@
 - 💬 Ask me about DSA and maybe web development
 - ⚡ Fun fact: Chai tastes way better than coffee! Change my mind😎  -->
  
-  
+  <br/>
   
 <img align="right" src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif" alt="Coder GIF" width="480" height="400">
 
