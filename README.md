@@ -4,7 +4,7 @@
 
 ### 👀 visitor count
 
-<img src="https://profile-counter.glitch.me/hayat-tamboli/count.svg" alt="Hello world" />
+<img src="https://profile-counter.glitch.me/deepsingh9868/count.svg" alt="Hello world" />
 
 ### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <img src = "https://github.com/deepsingh9868/deepak_img/blob/main/svg.svg"/>
