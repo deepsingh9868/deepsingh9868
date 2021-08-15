@@ -40,7 +40,7 @@
  </div>
  
  <img align="right" src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif" alt="Coder GIF" width="480" height="400">
-  
+ ![carbon](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/code1.png)
 <!-- - 🔭 I’m currently working on something which I don't know
 - 👯 I’m looking to collaborate on web development projects
 - 🤝 I’m looking for help with web development 
