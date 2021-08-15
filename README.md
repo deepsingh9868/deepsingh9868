@@ -18,7 +18,7 @@
 <!-- <p><b>I'm a dumb and young programmer from India</b></p> -->
 <!--   "https://giphy.com/gifs/spongebob-l46CyJmS9KUbokzsI/giphy.gif"  -->
   
- <img src="https://media.giphy.com/media/LnKa2WLkd6eAM/giphy.gif" width="50" /> <b><i>DUMB AND YOUNG PROGRAMMER!!!</i></b> <img src="https://media.giphy.com/media/mDXRploH8XBIaIG1U7/giphy.gif" width="50" />
+<!--  <img src="https://media.giphy.com/media/LnKa2WLkd6eAM/giphy.gif" width="50" /> <b><i>DUMB AND YOUNG PROGRAMMER!!!</i></b> <img src="https://media.giphy.com/media/mDXRploH8XBIaIG1U7/giphy.gif" width="50" /> -->
   
   
 <p align='center'>
@@ -30,13 +30,14 @@
   <a href="https://www.codechef.com/users/deepak_070"><img height="30" src="https://img.shields.io/badge/-codechef-black?logo=codechef&style=flat-square"></a>
 </p>
 
-<!-- - 🔭 I’m currently working on something which I don't know.
-- 🌱 I’m currently establishing a coding community!! 
-- 👯 I love to meet new people!!!
-- 🧥 Corrupt Fear US, The Honest Support US, The Heroic join US, Everyone Expect US!!
-- 💬 Ask me about any sort of motivation!!!
-- 📫 How to reach me: [http://vedantkhairnar.ml/](http://vedantkhairnar.ml/)
-- ⚡ Fun fact: Gimme Music and I will work 48hrs a day!! -->
+- 🔭 I’m currently working on something which I don't know
+- 👯 I’m looking to collaborate on web development projects
+- 🤝 I’m looking for help with web development 
+- 🌱 I’m currently learning pretty much everything
+- 💬 Ask me about DSA and maybe web development
+- ⚡ Fun fact: Chai tastes way better than coffee! Change my mind😎 
+  
+  
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 <h2 align="center">You can reach me at :alien:</h2>
