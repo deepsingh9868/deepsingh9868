@@ -65,10 +65,12 @@
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepsingh9868&langs_count=10&theme=tokyonight&layout=compact" alt="Deepak :: Top Langs" /></p> -->
 
 <!-- <h4 align="c">Profile stats :musical_keyboard:</h4> -->
+<br/>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=deepsingh9868&show_icons=true&theme=synthwave" alt="Deepak :: Profile Stats" /></p>
+<p aligh="left"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=programmergaurav&theme=radical" /></p>
 
-<p align="left"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p> 
+<!-- <p align="left"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>  -->
 
 
 
