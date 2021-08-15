@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepsingh9868&label=Views&color=blue&style=plastic" alt="deepak singh" /> </p>
-![alt](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/linkedinBack1.png)
+
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
@@ -14,7 +14,7 @@
 - 💬 Ask me about any sort of motivation!!!
 - 📫 How to reach me: [http://vedantkhairnar.ml/](http://vedantkhairnar.ml/)
 - ⚡ Fun fact: Gimme Music and I will work 48hrs a day!! -->
-
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 <h2 align="center">You can reach me at :alien:</h2>
 
