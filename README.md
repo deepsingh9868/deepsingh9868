@@ -7,8 +7,9 @@
 
 <img src="https://profile-counter.glitch.me/deepsingh9868/count.svg" alt="Hello world" /> --> 
 
-### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-<img src = "https://github.com/deepsingh9868/deepak_img/blob/main/svg.svg"/>
+<!-- ### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<img src = "https://github.com/deepsingh9868/deepak_img/blob/main/svg.svg"/> -->
+<h2 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <p><b>I'm a dumb and young programmer from India</b></p>
 <p align='center'>
   <a href="https://github.com/deepsingh9868"><img height="30" src="https://img.shields.io/badge/-github-black?logo=github&style=flat-square"></a>&nbsp;&nbsp;
