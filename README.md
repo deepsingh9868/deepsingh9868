@@ -1,13 +1,22 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepsingh9868&label=Views&color=blue&style=plastic" alt="deepak singh" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepsingh9868&label=Views&color=blue&style=plastic" alt="deepak singh" /> </p>
+
 <!-- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepaksingh66013@gmail.com)](mailto:deepaksingh66013@gmail.com) -->
 
 
-### 👀 visitor count
+<!-- ### 👀 visitor count
 
-<img src="https://profile-counter.glitch.me/deepsingh9868/count.svg" alt="Hello world" />
+<img src="https://profile-counter.glitch.me/deepsingh9868/count.svg" alt="Hello world" /> --> 
 
 ### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <img src = "https://github.com/deepsingh9868/deepak_img/blob/main/svg.svg"/>
+
+<p align='center'>
+  <a href="https://github.com/deepsingh9868"><img height="30" src="https://img.shields.io/badge/-jain--mukesh-black?logo=github&style=flat-square"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jain-mukesh"><img height="30" src="https://img.shields.io/badge/-jain--mukesh-blue?logo=linkedin&style=flat-square"></a>&nbsp;&nbsp;
+  <a href="mailto:deepaksingh66013@gmail.com"><img height="30" src="https://img.shields.io/badge/-jdeepaksingh66013@gmail.com-black?logo=gmail&style=flat-square"></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/_mjain"><img height="30" src="https://img.shields.io/badge/-__mjain-blue?logo=twitter&style=flat-square"></a>&nbsp;&nbsp;
+  <a href="https://medium.com/@jainmukesh"><img height="30" src="https://img.shields.io/badge/-@jainmukesh-black?logo=medium&style=flat-square"></a>
+</p>
 
 <!-- - 🔭 I’m currently working on something which I don't know.
 - 🌱 I’m currently establishing a coding community!! 
