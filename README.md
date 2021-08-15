@@ -32,16 +32,16 @@
   <a href="https://discord.gg/YngxnGQz"><img height="30" src="https://img.shields.io/badge/-discord-black?logo=discord&style=flat-square"></a>
 </p>
 
-<!-- ###🔭 I’m currently working on something which I don't know
+- 🔭 I’m currently working on something which I don't know
 - 👯 I’m looking to collaborate on web development projects
 - 🤝 I’m looking for help with web development 
 - 🌱 I’m currently learning pretty much everything
 - 💬 Ask me about DSA and maybe web development
 - ⚡ Fun fact: Chai tastes way better than coffee! Change my mind😎 
- -->
+ 
   
   
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" background="transparent" width="480" height="400">
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="480" height="400">
 
  
 
