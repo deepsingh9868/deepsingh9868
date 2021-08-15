@@ -1,4 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepsingh9868&label=Views&color=blue&style=plastic" alt="deepak singh" /> </p>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepaksingh66013@gmail.com)](deepaksingh66013@gmail.com)
 
 
 
