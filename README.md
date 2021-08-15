@@ -85,7 +85,7 @@
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
   </a>
 </p> -->
-
+<!-- 
 <h2 align="center">Github stats :bar_chart:</h2>
 
 <h4 align="center">Visitor's count :eyes:</h4>
@@ -100,13 +100,13 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p> -->
 
 
 ---
-
+<!-- 
 <h1 align="center">Hi 👋, I'm Deepak</h1>
-<h3 align="center">A dumb and young programmer from India. Try to catch up with the fast growing technology standards</h3>
+<h3 align="center">A dumb and young programmer from India. Try to catch up with the fast growing technology standards</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepsingh9868&label=Profile%20views&color=0e75b6&style=flat" alt="deepsingh9868" /> </p>
 
