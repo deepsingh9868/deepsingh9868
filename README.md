@@ -1,24 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepsingh9868&label=Views&color=blue&style=plastic" alt="deepak singh" /> </p>
 ![alt](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/linkedinBack1.png)
 
-A person to whom computers fascinate more than humans, a person with great interest in Astronomy, Chemistry and History.
-
-A person who is also
-Dev| Intern@Tesselate Imaging| Beta Microsoft Student Partner| Freelancer| DSC RCOEM Core| AI Mentor @Tesseract Coding| FOSS Enthusiast| in a DEEP Life!!
-
-Pythonic Developer, Freelancer, Philantrophist, Graphics Designer and much more.... 
-
-
-- 🔭 I’m currently working on my startup, Stay Tuned!!!
-- 🌱 I’m currently establishing a coding community!! 
-- 👯 I love to meet new people!!!
-- 🧥 Corrupt Fear US, The Honest Support US, The Heroic join US, Everyone Expect US!!
-- 💬 Ask me about any sort of motivation!!!
-- 📫 How to reach me: [http://vedantkhairnar.ml/](http://vedantkhairnar.ml/)
-- ⚡ Fun fact: Gimme Music and I will work 48hrs a day!!
-
-![Vedant's github stats](https://github-readme-stats.vercel.app/api?username=VedantKhairnar&hide=["issues"]&show_icons=true)
-
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 
 ### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
