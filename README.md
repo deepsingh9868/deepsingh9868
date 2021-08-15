@@ -30,18 +30,18 @@
   <a href="https://www.codechef.com/users/deepak_070"><img height="30" src="https://img.shields.io/badge/-codechef-black?logo=codechef&style=flat-square"></a>
 </p>
 
-###🔭 I’m currently working on something which I don't know
+<!-- ###🔭 I’m currently working on something which I don't know
 - 👯 I’m looking to collaborate on web development projects
 - 🤝 I’m looking for help with web development 
 - 🌱 I’m currently learning pretty much everything
 - 💬 Ask me about DSA and maybe web development
 - ⚡ Fun fact: Chai tastes way better than coffee! Change my mind😎 
-
+ -->
   
   
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
-<h2 align="center">You can reach me at :alien:</h2>
+<!-- <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
   <a href="https://dev.to/anhello">
@@ -84,7 +84,7 @@
   <a href="https://stackshare.io/anhello/my-personal-stack">
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
   </a>
-</p>
+</p> -->
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
