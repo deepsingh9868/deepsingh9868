@@ -12,17 +12,7 @@
 <!--  ### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> -->
 <img src = "https://github.com/deepsingh9868/deepak_img/blob/main/svg.svg"/> 
 <!-- <img align="right" alt="GIF" src="https://general.stdcdn.com/animation_500_kkcayqws.gif" width="300" height="300" /> -->
-<p 
-- 🔭 I’m currently working on something which I don't know
-- 👯 I’m looking to collaborate on web development projects
-- 🤝 I’m looking for help with web development 
-- 🌱 I’m currently learning pretty much everything
-- 💬 Ask me about DSA and maybe web development
-- ⚡ Fun fact: Chai tastes way better than coffee! Change my mind😎> 
- 
- <img align="right" src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif" alt="Coder GIF" width="480" height="400">
-  </p>
-  
+
 <!-- <p><b>I'm a dumb and young programmer from India</b></p> -->
 <!--   "https://giphy.com/gifs/spongebob-l46CyJmS9KUbokzsI/giphy.gif"  -->
   
@@ -39,6 +29,18 @@
   <a href="https://discord.gg/YngxnGQz"><img height="30" src="https://img.shields.io/badge/-discord-black?logo=discord&style=flat-square"></a>
 </p>
 
+ 
+ <div align="left">
+  <p> 🔭 I’m currently working on something which I don't know</p>
+  <p>👯 I’m looking to collaborate on web development projects</p>
+  <p>🤝 I’m looking for help with web development </p>
+  <p>🌱 I’m currently learning pretty much everything</p>
+  <p>💬 Ask me about DSA and maybe web development</p>
+  <p>⚡ Fun fact: Chai tastes way better than coffee! Change my mind😎> </p>
+ 
+ <img align="right" src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif" alt="Coder GIF" width="480" height="400">
+ </div>
+  
 <!-- - 🔭 I’m currently working on something which I don't know
 - 👯 I’m looking to collaborate on web development projects
 - 🤝 I’m looking for help with web development 
