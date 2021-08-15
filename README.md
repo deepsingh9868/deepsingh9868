@@ -28,6 +28,7 @@
   <a href="https://www.hackerearth.com/@deepaksingh66013"><img height="30" src="https://img.shields.io/badge/-hackerearth-black?logo=hackerearth&style=flat-square"></a>&nbsp;&nbsp;
   <a href="https://leetcode.com/deepsingh9868/"><img height="30" src="https://img.shields.io/badge/-leetcode-black?logo=leetcode&style=flat-square"></a>
   <a href="https://www.codechef.com/users/deepak_070"><img height="30" src="https://img.shields.io/badge/-codechef-black?logo=codechef&style=flat-square"></a>
+  <a href="https://discord.gg/YngxnGQz"><img height="30" src="https://img.shields.io/badge/-discord-black?logo=discord&style=flat-square"></a>
 </p>
 
 <!-- ###🔭 I’m currently working on something which I don't know
@@ -112,7 +113,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepsingh9868" alt="deepsingh9868" /></a> </p>
 
-- ⚡ Fun fact **Chai tastes way better than coffee! Change my mind 😎**
+<!-- - ⚡ Fun fact **Chai tastes way better than coffee! Change my mind 😎** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
