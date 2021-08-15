@@ -2,10 +2,9 @@
 
 <!-- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepaksingh66013@gmail.com)](mailto:deepaksingh66013@gmail.com) -->
 
+ ### 👀 visitor count
 
-<!-- ### 👀 visitor count
-
-<img src="https://profile-counter.glitch.me/deepsingh9868/count.svg" alt="Hello world" /> --> 
+<img align = "left" src="https://profile-counter.glitch.me/deepsingh9868/count.svg" alt="Hello world" />  
 
 <h2 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
