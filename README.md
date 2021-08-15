@@ -29,13 +29,14 @@
   <a href="https://leetcode.com/deepsingh9868/"><img height="30" src="https://img.shields.io/badge/-leetcode-black?logo=leetcode&style=flat-square"></a>
   <a href="https://www.codechef.com/users/deepak_070"><img height="30" src="https://img.shields.io/badge/-codechef-black?logo=codechef&style=flat-square"></a>
 </p>
-
+<div align ='left'>
 - 🔭 I’m currently working on something which I don't know
 - 👯 I’m looking to collaborate on web development projects
 - 🤝 I’m looking for help with web development 
 - 🌱 I’m currently learning pretty much everything
 - 💬 Ask me about DSA and maybe web development
 - ⚡ Fun fact: Chai tastes way better than coffee! Change my mind😎 
+ </div>
   
   
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
