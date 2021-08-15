@@ -1,3 +1,7 @@
+<a href="https://github.com/deepsingh9868">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepsingh9868&show_icons=true&theme=dark&line_height=30" alt="Deepak's github stats"/>
+</a>
+
 ![alt](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/linkedinBack1.png)
 
 A person to whom computers fascinate more than humans, a person with great interest in Astronomy, Chemistry and History.
