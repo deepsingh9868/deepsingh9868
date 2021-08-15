@@ -29,8 +29,9 @@
   <a href="https://discord.gg/YngxnGQz"><img height="30" src="https://img.shields.io/badge/-discord-black?logo=discord&style=flat-square"></a>
 </p>
 
+ 
 <img align="right" src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif" alt="Coder GIF" width="480" height="400">
-<img src"https://github.com/deepsingh9868/deepak_img/blob/main/github%20into.png" alt="intro>
+<img src"https://github.com/deepsingh9868/deepak_img/blob/main/github into.png" alt="intro>
                                                                                        
    
 
