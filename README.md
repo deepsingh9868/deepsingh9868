@@ -68,8 +68,7 @@
 <br/>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=deepsingh9868&show_icons=true&theme=synthwave" alt="Deepak :: Profile Stats" /></p>
-<!-- <p align="left"><img src="https://github-readme-streak-stats.vercel.app/api?username=deepsingh9868&show_icons=true&theme=synthwave" alt="Deepak :: Profile Stats" /></p> -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepsingh9868&" alt="deepsingh9868" /></p>
+
 <p aligh="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=deepsingh9868&theme=radical" /></p>
 
 <!-- <p align="left"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>  -->
