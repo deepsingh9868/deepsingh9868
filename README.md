@@ -9,7 +9,7 @@
 
 ### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <img src = "https://github.com/deepsingh9868/deepak_img/blob/main/svg.svg"/>
-
+<p><b>I'm a dumb and young programmer from India</b></p>
 <p align='center'>
   <a href="https://github.com/deepsingh9868"><img height="30" src="https://img.shields.io/badge/-github-black?logo=github&style=flat-square"></a>&nbsp;&nbsp;
 <!--   <a href="https://www.linkedin.com/in/jain-mukesh"><img height="30" src="https://img.shields.io/badge/-jain--mukesh-blue?logo=linkedin&style=flat-square"></a>&nbsp;&nbsp; -->
