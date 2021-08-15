@@ -63,11 +63,11 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepsingh9868&langs_count=10&theme=tokyonight&layout=compact" alt="Deepak :: Top Langs" /></p>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+<!-- <h4 align="c">Profile stats :musical_keyboard:</h4> -->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=deepsingh9868&show_icons=true&theme=synthwave" alt="Deepak :: Profile Stats" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=deepsingh9868&show_icons=true&theme=synthwave" alt="Deepak :: Profile Stats" /></p>
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p> 
+<p align="left"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p> 
 
 
 
