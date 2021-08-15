@@ -41,7 +41,7 @@
  
   
   
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="480" height="400">
+<img align="right" src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif" alt="Coder GIF" width="480" height="400">
 
  
 
