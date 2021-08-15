@@ -30,16 +30,16 @@
 </p>
 
  
- <div align="left">
+ <div align="left" width = 50% >
   <p> 🔭 I’m currently working on something which I don't know</p>
   <p>👯 I’m looking to collaborate on web development projects</p>
   <p>🤝 I’m looking for help with web development </p>
   <p>🌱 I’m currently learning pretty much everything</p>
   <p>💬 Ask me about DSA and maybe web development</p>
   <p>⚡ Fun fact: Chai tastes way better than coffee! Change my mind😎> </p>
+ </div>
  
  <img align="right" src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif" alt="Coder GIF" width="480" height="400">
- </div>
   
 <!-- - 🔭 I’m currently working on something which I don't know
 - 👯 I’m looking to collaborate on web development projects
