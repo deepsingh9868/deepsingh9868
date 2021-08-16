@@ -29,6 +29,25 @@
 
 <br />
  <br/>
+ 
+ <p align="center">
+    <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+    <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+    <img alt="AZURE" src="https://img.shields.io/badge/Azure-%2300f.svg?&style=for-the-badge&logo=microsoftazure&logoColor=white&color=rgb(54,132,255)"/>
+    <img alt="REST" src="https://img.shields.io/badge/{REST API}%20-%23013243.svg?&style=for-the-badge&color=c2f5cd&logoColor=white" />
+    <img alt="Pandas" src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" />
+    <img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
+    <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img alt="TravisCI" src="https://img.shields.io/badge/travisci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white"/>
+    <img alt="Flask" src="https://img.shields.io/badge/Flask%20-%23EE4C2C.svg?&style=for-the-badge&logo=Flask&logoColor=white&color=rgb(10,10,10)" />
+    <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230072C6.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+    <img alt="Postman" src="https://img.shields.io/badge/Postman%20-%23FA7343.svg?&style=for-the-badge&logo=postman&logoColor=white" />
+    <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white&color=rgb(10,10,10)"/>
+    <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+    
+</p>
+ 
 <p>
 <img  align="left" src="https://github-readme-stats.vercel.app/api?username=deepsingh9868&show_icons=true&theme=synthwave" alt="Deepak :: Profile Stats" />
 <img  align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deepsingh9868&theme=radical" />
