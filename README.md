@@ -31,7 +31,7 @@
  <br/>
 <p>
 <img  align="left" src="https://github-readme-stats.vercel.app/api?username=deepsingh9868&show_icons=true&theme=synthwave" alt="Deepak :: Profile Stats" />
-<img  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=deepsingh9868&theme=radical" />
+<img  align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deepsingh9868&theme=radical" />
 </p>
 
 
