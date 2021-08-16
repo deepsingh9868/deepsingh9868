@@ -30,7 +30,15 @@
 <br />
  <br/>
  
- <p align="right" width="400" height="400">  
+
+ 
+<p>
+<img  align="left" src="https://github-readme-stats.vercel.app/api?username=deepsingh9868&show_icons=true&theme=synthwave" alt="Deepak :: Profile Stats" />
+<img  align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deepsingh9868&theme=radical" />
+</p>
+ 
+ 
+  <div align="right" width="400" height="400">  
     <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
     <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -46,12 +54,7 @@
     <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white&color=rgb(10,10,10)"/>
     <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
     
-</p>
- 
-<p>
-<img  align="left" src="https://github-readme-stats.vercel.app/api?username=deepsingh9868&show_icons=true&theme=synthwave" alt="Deepak :: Profile Stats" />
-<img  align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deepsingh9868&theme=radical" />
-</p>
+</div>
 
 
 
