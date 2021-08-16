@@ -5,6 +5,7 @@
  ### 👀 visitor count
 
 <img src="https://profile-counter.glitch.me/deepsingh9868/count.svg" alt="counter" />  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepsingh9868&label=Profile%20views&color=0e75b6&style=flat" alt="deepsingh9868" /> </p>
 
 
 <h2 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
