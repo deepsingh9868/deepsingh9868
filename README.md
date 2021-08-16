@@ -23,7 +23,7 @@
 
 
  <p>
-<img align="left" width="480" height="400" src="https://github.com/deepsingh9868/deepak_img/blob/main/intro.png" />
+<img align="left" width="470" height="400" src="https://github.com/deepsingh9868/deepak_img/blob/main/intro.png" />
 <img align="right" src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif" alt="Coder GIF" width="350" height="400">
  </p>
 
