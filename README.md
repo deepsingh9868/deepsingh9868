@@ -37,7 +37,7 @@
 <img  align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deepsingh9868&theme=radical" />
 </p>
  
- 
+ <br>
   <div align="right" width="400" height="400">  
     <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
     <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
