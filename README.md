@@ -2,7 +2,7 @@
 
 <!-- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepaksingh66013@gmail.com)](mailto:deepaksingh66013@gmail.com) -->
 
- ### 👀 visitor count
+<!--  ### 👀 visitor count -->
 
 <!-- <img src="https://profile-counter.glitch.me/deepsingh9868/count.svg" alt="profile views"/> -->
 
