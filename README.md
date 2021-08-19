@@ -2,9 +2,9 @@
 
 <!-- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepaksingh66013@gmail.com)](mailto:deepaksingh66013@gmail.com) -->
 
-<!--  ### 👀 visitor count -->
+ ### 👀 visitor count
 
-<!-- <img src="https://profile-counter.glitch.me/deepsingh9868/count.svg" alt="profile views"/> -->
+<img src="https://profile-counter.glitch.me/deepsingh9868/count.svg" alt="profile views"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepsingh9868&label=Profile%20views&color=0e75b6&style=flat" alt="deepsingh9868" /> </p>
 
