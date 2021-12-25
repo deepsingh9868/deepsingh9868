@@ -12,7 +12,7 @@
 <h2 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
-<img src = "https://github.com/deepsingh9868/deepak_img/blob/main/svg.svg"/> 
+<!-- <img src = "https://github.com/deepsingh9868/deepak_img/blob/main/svg.svg"/>  -->
 
   
 <p align='center'>
